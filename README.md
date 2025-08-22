@@ -145,3 +145,26 @@ Github link--: https://github.com/upadhyay02nitesh/Agno
 
 
 #AI #ArtificialIntelligence #LLM #Agno #OpenRouter #Python #MachineLearning #Chatbots #AIagents #Mistral #LangChainAlternative
+Travel Itinerary Generator
+
+Problem Statement:
+
+Travelers often find it challenging to create personalized travel itineraries that fit their preferences and time constraints.
+
+Steps:
+
+Build a generative Al agent that collects traveler preferences such as destination, duration, and interests.
+
+Use travel guides and points of interest data.
+
+Generate a day-wise travel itinerary.
+
+Validate with sample traveler inputs.
+
+Data Requirements:
+
+Travel destination information, points of interest, sample traveler preferences.
+
+Expected Output:
+
+A detailed, personalized travel itinerary in text format outlining daily activities and suggestions.
